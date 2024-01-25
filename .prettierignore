@@ -1,0 +1,8 @@
+node_modules/
+
+/*.md
+*.log
+*.test.ts
+
+build/*
+dist/*
